@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Subpackage
+Normattiva-Law-Retriever/*
+Normattiva-Law-Retriever
 # C extensions
 *.so
 
