@@ -1,9 +1,9 @@
 # Legal-Agent
-**Analysis of italian contract and cited laws exploiting Normattiva online databases, with Agent to perform different kind of explanations.**
+**Analysis of italian contract and cited laws exploiting Normattiva online database, with Agent to perform different kind of explanations.**
 
 Input your contract, an LLM will analyze it and will identify all the times a law is cited and which part of the text is concerned. 
-Once the law has been identified the Normattiva online database is consulter using Normattiva-Law-Retriever to access the full text of the law.
-If you want to have more explanations about the law and how is applied in your contract an Agent, able to analyze different aspects is invoked as prompts you to choose in what kind of explanation you are interested among: Extract legal concepts, Detect contradictions, Assess legal risk and Validate law citation.
+Once the law has been identified the Normattiva online database is consulted using Normattiva-Law-Retriever to access the full text of the law.
+If you want to have more explanations about the law, and how is applied in your contract, an Agent, able to analyze different aspects is invoked as prompts you to choose in what kind of explanation you are interested among: Extract legal concepts, Detect contradictions, Assess legal risk and Validate law citation.
 
 
 ## **To set up:**
